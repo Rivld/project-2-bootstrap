@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-custom{
+    background-color: #620202;
+}
+
+.navbar-custom .dropdown-item{
+    background-color: #620202;;
+}
+
+.navbar-custom .form-control{
+    background-color: transparent;
+}
+
+.section-skill{
+    padding: 100px 0px;
+}
+
+.section-skill .skill-box{
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #dedede;
+}
+
+.item-artikel{
+    padding: 80px 0px;
+    border-top: 1px solid #dedede;
+}
+
+.item-artikel .caption{
+    height: 350px;
+}
+
+.item-artikel .image-artikel{
+    width: 100%;
+    height: 350px;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+.footer{
+    padding: 80px 0px;
+    border-top: 1px solid #dedede;
+}
